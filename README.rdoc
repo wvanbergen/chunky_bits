@@ -1,0 +1,5 @@
+= ChunkyBits
+
+This library is an add-on for ChunkyPNG. It contains pure Ruby implementations of image processing algorithms that are out of scope for ChunkyPNG itself. 
+
+This gem is mostly meant as a learning tool. Feel free to fork this project to add new algorithms, even if you do not consider yourself an expert on the topic.
